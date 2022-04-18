@@ -5,6 +5,14 @@ import utils.counting as C
 
 list1 = [1, 2, 3, 4, 5]
 
+list1 = [1, 2, 3, 4, 5]
+
+list1 = [1, 2, 3, 4, 5]
+
+list1 = [1, 2, 3, 4, 5]
+
+list1 = [1, 2, 3, 4, 5]
+
 if __name__ == "__main__":
     print("\nSOME PROBABILITY PROBLEMS\n")
 
