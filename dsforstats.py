@@ -5,13 +5,17 @@ import utils.counting as C
 
 list1 = [1, 2, 3, 4, 5]
 
-list1 = [1, 2, 3, 4, 5]
+list2 = [1, 2, 3, 4, 5]
 
-list1 = [1, 2, 3, 4, 5]
+list3 = [1, 2, 3, 4, 5]
 
-list1 = [1, 2, 3, 4, 5]
+list4 = [1, 2, 3, 4, 5]
 
-list1 = [1, 2, 3, 4, 5]
+list5 = [1, 2, 3, 4, 5]
+
+list6 = [1, 2, 3, 4, 345]
+
+list7 = [12, 23, 34, 45, 56]
 
 if __name__ == "__main__":
     print("\nSOME PROBABILITY PROBLEMS\n")
